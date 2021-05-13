@@ -15,7 +15,7 @@ To get up the server running locally
 - `lib/` - This folder contains the necessary read and write logic dealing with the data files
 
 ### API - Endpoints
-Running the 
+
 - `GET /agents` - Returns List of all Agents
 - `GET /agents/{id}` - Returns all Agent Details by agent ID
 - `POST /agents` - Add new Agent: Request body in json format for Agent data
