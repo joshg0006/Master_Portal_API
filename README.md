@@ -23,7 +23,7 @@ To get up the server running locally
 
 - `GET /customers/{agentId}` - Get customers By a agent
 - `GET /customers` - Get all customers
-- `POST /customers` - Add new Customer
+- `POST /customers` - Add new Customer: Request body in json format for Customer data
 - `PUT /customer/{id}` - Update existing Customer
 - `DELETE customer/{id}` - Delete existing Customer 
 
